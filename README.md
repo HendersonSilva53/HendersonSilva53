@@ -1,7 +1,7 @@
 # Hi, I'm Henderson Silva 👋
 **`Software Engineer`**
  
-Full Stack Developer with a **Backend focus**, building REST APIs with **Java** and **Spring Boot**. Pursuing a Bachelor's degree in Computer Science at FACAPE and deepening my knowledge in DevOps, cloud infrastructure, and frontend development.
+Full Stack Developer with a **Backend focus**, with **Java** and **Spring Boot**. Pursuing a Bachelor's degree in Computer Science at FACAPE and deepening my knowledge in DevOps, cloud infrastructure, and frontend development.
  
 ---
  
